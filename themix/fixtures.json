@@ -1,0 +1,23 @@
+[
+  {
+    "pk": 1,
+    "model": "things.thing",
+    "fields": {
+      "name": "1thing"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "things.thing",
+    "fields": {
+      "name": "2thing"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "things.thing",
+    "fields": {
+      "name": "3thing"
+    }
+  }
+]
